@@ -24,6 +24,9 @@ public class LED {
         return colourName;
     }
 
+    /*
+    This is the method for updating the value of the colour name of a particular LED.
+     */
 
     public void setColourName(String colourName) {
         this.colourName = colourName;
