@@ -62,6 +62,7 @@ Method for returning the length of LEDStrip
     {
         return numberOfDefectiveLEDs() > (lengthOfStrip()) / 2;
     }
+
     public void printStripStatus()
     {
         System.out.println(isStripDefective() ? "This strip is defective"
