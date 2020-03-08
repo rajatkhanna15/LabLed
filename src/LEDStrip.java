@@ -21,10 +21,14 @@ setter method
         this.ledStrip = ledStrip;
     }
 
-
+/*
+Parametrised constructor
+ */
     public LEDStrip(LED[] ledStrip) {
         this.ledStrip = ledStrip;
     }
+
+
     private int lengthOfStrip()    //helper methods are always private
     {
         return ledStrip.length;
