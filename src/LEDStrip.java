@@ -36,6 +36,10 @@ Method for returning the length of LEDStrip
         return ledStrip.length;
     }
 
+    /*
+    method to find the number of defective LEDs.
+     */
+
     private int numberOfDefectiveLEDs()
     {
         int counter=0;
