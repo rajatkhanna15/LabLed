@@ -5,6 +5,10 @@ creating LEDsSrip class
 public class LEDStrip {
     private LED[] ledStrip;
 
+/*
+Getter and setter methods for the parameter ledStrip[] array
+ */
+
     public LED[] getLedStrip() {
         return ledStrip;
     }
