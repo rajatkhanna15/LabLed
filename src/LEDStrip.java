@@ -21,6 +21,7 @@ setter method
         this.ledStrip = ledStrip;
     }
 
+
     public LEDStrip(LED[] ledStrip) {
         this.ledStrip = ledStrip;
     }
