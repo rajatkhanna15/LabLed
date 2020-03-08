@@ -17,8 +17,9 @@ public class LED {
 
 
     /*
-
+    This is the method for reading the colour name of a particular LED.
      */
+
     public String getColourName() {
         return colourName;
     }
