@@ -53,6 +53,11 @@ Method for returning the length of LEDStrip
         }
         return counter;
     }
+
+    /*
+    ,\method to find whether the strip is defective or not.
+     */
+
     private boolean isStripDefective()
     {
         return numberOfDefectiveLEDs() > (lengthOfStrip()) / 2;
