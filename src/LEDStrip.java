@@ -74,4 +74,5 @@ method to print the status of LED strip.(defective or not.)
 
     }
 
+
 }
