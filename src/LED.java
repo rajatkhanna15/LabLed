@@ -51,6 +51,9 @@ This is the method for updating the value of working paramter=r.
         this.working = working;
     }
 
+/*
+paramterised constructor to initialise the default values to the parameters.
+ */
 
     public LED(String colourName, boolean working) {
         this.colourName = colourName;
