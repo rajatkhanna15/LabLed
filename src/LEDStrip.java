@@ -13,6 +13,9 @@ Getter and setter methods for the parameter ledStrip[] array
         return ledStrip;
     }
 
+/*
+setter method
+ */
 
     public void setLedStrip(LED[] ledStrip) {
         this.ledStrip = ledStrip;
