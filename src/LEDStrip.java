@@ -1,3 +1,7 @@
+/*
+creating LEDsSrip class
+ */
+
 public class LEDStrip {
     private LED[] ledStrip;
 
