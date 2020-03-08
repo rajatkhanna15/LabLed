@@ -13,9 +13,6 @@ public class LED {
     private boolean working;   //this is the parameter for telling whether a particular LED is working or not.
 
 
-
-
-
     /*
     This is the method for reading the colour name of a particular LED.
      */
