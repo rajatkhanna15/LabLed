@@ -28,11 +28,14 @@ Parametrised constructor
         this.ledStrip = ledStrip;
     }
 
-
+/*
+Method for returning the length of LEDStrip
+ */
     private int lengthOfStrip()    //helper methods are always private
     {
         return ledStrip.length;
     }
+
     private int numberOfDefectiveLEDs()
     {
         int counter=0;
