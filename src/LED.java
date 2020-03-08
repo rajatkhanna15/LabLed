@@ -32,6 +32,11 @@ public class LED {
         this.colourName = colourName;
     }
 
+    /*
+    if the value of working parameter entered is true, then this method will return true
+    otherwise false.
+     */
+
 
     public boolean isWorking() {
         return working;
