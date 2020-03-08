@@ -42,6 +42,10 @@ public class LED {
         return working;
     }
 
+/*
+This is the method for updating the value of working paramter=r.
+ */
+
     public void setWorking(boolean working) {
         this.working = working;
     }
